@@ -1,7 +1,7 @@
 這是2019年AI CUP最後一個比賽【論文機器閱讀競賽 之 論文標註】
 網址：https://tbrain.trendmicro.com.tw/Competitions/Details/8
 
-小的用基礎範例下去改，最後約2周多一點開始做
+小的用基礎範例下去改，利用google colab，從最後約2周多一點開始做
 比賽結果在Leaderboard，可點進去查詢，小的名稱是NCU碼寶(也有截圖在資料夾)
 
 一開始的公開資料(Public Dataset) 上傳結果獲得32名
